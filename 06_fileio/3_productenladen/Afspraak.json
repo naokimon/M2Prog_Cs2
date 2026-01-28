@@ -1,0 +1,17 @@
+[
+    {
+        "tijd": 1000,
+        "beschrijving": "Pauze",
+        "dag": "Maandag"
+    },
+    {
+        "tijd": 1315,
+        "beschrijving": "2de pauze",
+        "dag": "Maandag"
+    },
+    {
+        "tijd": 1645,
+        "beschrijving": "Uit",
+        "dag": "Maandag"
+    }
+]

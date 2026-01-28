@@ -1,0 +1,17 @@
+[
+    {
+        "Name" :"Switch",
+        "Description":"Leuke nintendo console",
+        "Price" :299.99
+    },
+    {
+        "Name" :"PS5",
+        "Description":"De console voor God of War",
+        "Price" :499.99
+    },
+    {
+        "Name" :"Xbox",
+        "Description":"Gears of war... need i say more",
+        "Price" :499.99
+    }
+]
